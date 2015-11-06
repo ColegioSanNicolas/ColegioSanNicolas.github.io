@@ -1,0 +1,30 @@
+/*
+ *ROM-PacMe CSS: repro info
+ *(c) 2015 Rafael PacMe <rafy.pachecomendez@gmail.com>
+ */
+
+
+.repro {
+
+	color: #fff;
+	position: absolute;
+	padding: 50px 0;
+	text-align: center;
+	font-weight: 100;
+	float: right;
+}
+.repro h2, .repro p {
+	background: rgba(225,225,225,.0);
+	display: inline-block;
+	padding: 5px;
+}
+.repro h2 {
+	padding: 5px;
+	font-size: 40px;
+	letter-spacing: 2.5px;
+	font-weight: normal;
+}
+.repro p {
+	font-size: 20px;
+	letter-spacing: 2.5px;
+}
